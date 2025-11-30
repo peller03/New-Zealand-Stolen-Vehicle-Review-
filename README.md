@@ -15,6 +15,9 @@
 This project analyzes stolen vehicle trends across New Zealand using Excel for data cleaning, transformation, and visualization.
 The goal is to understand which vehicles are most stolen, high-risk regions, seasonal theft patterns, and how demographic factors like population density influence crime.
  
+<img width="612" height="373" alt="new zealand dashboard" src="https://github.com/user-attachments/assets/20031e28-c228-4745-a03b-2b694b526122" />
+
+
 
 ### Data Sources
 TDI (The Data Immersed) Group Provided the dataset as a ZIP file containing multiple structured datasets related to stolen vehicles.
